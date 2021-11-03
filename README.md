@@ -6,5 +6,5 @@ A study on billionaires.
 2. 614 billionaires in the United States as 2020.
 
 ## Reference
-https://www.forbes.com/billionaires/
-https://www.forbes.com/sites/kenrickcai/2021/04/06/golden-state-billionaires-californias-richest-residents-2021/?sh=3472c86179e8
+- https://www.forbes.com/billionaires/
+- https://www.forbes.com/sites/kenrickcai/2021/04/06/golden-state-billionaires-californias-richest-residents-2021/?sh=3472c86179e8
